@@ -20,5 +20,4 @@ As Kanye West said:
 > We're living the future so
 > the present is our past
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SanjiKush&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjiKush&langs_count=5&theme=tokyonight)]()
