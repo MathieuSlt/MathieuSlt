@@ -1,19 +1,37 @@
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuSlt&langs_count=5&theme=tokyonight)]()
+<h1 align="center">Hi, I'm Mathieu 👋</h1>
 
+<p align="center">
+  Software engineer based in Paris. I build web apps, small tools for macOS, and AI side projects.<br/>
+  When I think it's cool, I make it public.
+</p>
 
-# Come and see
+<p align="center">
+  <a href="https://mathieusalliot.fr"><img src="https://img.shields.io/badge/mathieusalliot.fr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <img src="https://img.shields.io/badge/Paris,%20France-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paris, France"/>
+</p>
 
-[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mathieusalliot.fr)
+---
 
-# Operating Systems
+### 🛠️ Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Pop!_OS](https://img.shields.io/static/v1?style=for-the-badge&message=Pop%21_OS&color=222222&logo=Pop%21_OS&logoColor=48B9C7&label=)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,python,swift,bash,java&perline=13" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vim,linux,apple&perline=9" alt="Tools and platforms"/>
+</p>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🚀 Featured projects
 
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**graph-me**](https://github.com/MathieuSlt/graph-me) | A local knowledge graph of your own files, mail, chats and contacts, exposed to AI assistants through an MCP server. | Python · MCP |
+| [**InstantSpaceSwitcher**](https://github.com/MathieuSlt/InstantSpaceSwitcher) | Switches macOS spaces instantly, without the animation. No need to disable SIP. | Swift |
+| [**myrag**](https://github.com/MathieuSlt/myrag) | A small, heavily commented RAG pipeline (chunking, embeddings, reranking, generation) written with plain `numpy`. | Python · Gemini |
+| [**soundcloud_shazam**](https://github.com/MathieuSlt/soundcloud_shazam) | Splits a long DJ mix into segments and identifies each track with Shazam. | Python · ffmpeg |
 
+### 📊 GitHub stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MathieuSlt&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuSlt&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</p>
