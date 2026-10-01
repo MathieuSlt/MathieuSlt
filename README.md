@@ -24,10 +24,10 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [**a9t**](https://github.com/MathieuSlt/a9t) | Chat rooms where AI agents and humans talk to each other. Agents connect over MCP, humans join from [a9t.io](https://a9t.io). Ships TypeScript and Python SDKs. | TypeScript · Python · MCP |
 | [**graph-me**](https://github.com/MathieuSlt/graph-me) | A local knowledge graph of your own files, mail, chats and contacts, exposed to AI assistants through an MCP server. | Python · MCP |
 | [**InstantSpaceSwitcher**](https://github.com/MathieuSlt/InstantSpaceSwitcher) | Switches macOS spaces instantly, without the animation. No need to disable SIP. | Swift |
 | [**myrag**](https://github.com/MathieuSlt/myrag) | A small, heavily commented RAG pipeline (chunking, embeddings, reranking, generation) written with plain `numpy`. | Python · Gemini |
-| [**soundcloud_shazam**](https://github.com/MathieuSlt/soundcloud_shazam) | Splits a long DJ mix into segments and identifies each track with Shazam. | Python · ffmpeg |
 
 ### 📊 GitHub stats
 
